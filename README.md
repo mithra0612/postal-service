@@ -43,8 +43,9 @@ A comprehensive, AI-powered platform developed to enhance **financial and insura
 - Detailed post-event analytics for every branch, measuring effectiveness and reach.
 - Insights for refining future strategies.
 
-### **9. Chatbot Assistance:**
-- Smart chatbot to assist field workers and customers by answering queries about financial products, eligibility, and procedures.
+### **9. RAG-Based AI Assistant:**
+- Retrieval-Augmented Generation (RAG) based intelligent assistant to answer queries related to financial products, eligibility, procedures, and local events.
+- Enhances real-time support for both field workers and customers.
 
 ### **10. Farmer Risk Analysis:**
 - AI-driven analysis of **agricultural cycles**, **crop patterns**, and **risk profiles**.
@@ -73,8 +74,8 @@ A comprehensive, AI-powered platform developed to enhance **financial and insura
    - Collect post-event feedback to continuously refine strategies.
    - Analyze post-mela performance using detailed branch-level statistics.
 
-6. **Chatbot and Farmer Risk Profiling:**
-   - Provide instant support via chatbot.
+6. **RAG-Based Assistance and Farmer Risk Profiling:**
+   - Provide instant support via Retrieval-Augmented Generation (RAG) AI assistant.
    - Analyze farmer risk to match the best financial/insurance products to their needs.
 
 ---
@@ -101,7 +102,7 @@ A comprehensive, AI-powered platform developed to enhance **financial and insura
 - **Custom Machine Learning Models**: 
   - Farmer risk analysis.
   - Scheme recommendation engine.
-  - Chatbot functionality.
+  - RAG-based AI Assistant for real-time intelligent query handling.
 
 ---
 
